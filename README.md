@@ -23,6 +23,10 @@ Building scalable web applications, AI-powered solutions, and real-world softwar
 
 </div>
 
+## Current Status
+
+🚧 Building production-grade MERN applications while strengthening system design, backend engineering, and AI integration skills.
+
 ---
 
 # Engineering Philosophy
@@ -56,9 +60,9 @@ StudyNest brings study planning, collaborative learning, resource management, an
 
 `React` • `Node.js` • `Express.js` • `MongoDB` • `Gemini AI` • `Cloudinary`
 
-**Repository:** Coming Soon
+**Repository:** Available upon first stable release
 
-**Live Demo:** Coming Soon
+**Live Demo:** Planned after MVP completion
 
 ---
 
