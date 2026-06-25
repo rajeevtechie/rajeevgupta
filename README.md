@@ -14,6 +14,9 @@ Building scalable web applications, AI-powered solutions, and production-ready s
 </p>
 
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajeevgupta001&label=Profile%20Views&color=7C3AED&style=flat" />
+</p>
 
 
 ## Current Status
@@ -147,16 +150,19 @@ Live Demo: Planned after stable deployment
 
 # GitHub Analytics
 
-# GitHub Analytics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeevgupta001&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeevgupta001&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgupta001&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgupta001&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rajeevgupta001&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 # Let's Connect
